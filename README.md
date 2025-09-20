@@ -136,7 +136,9 @@ RoboDiary Co-Pilot runs entirely offline. Images and text never leave the machin
 
 ## 📜 License
 
-Use under the license included in this pack. Models (**llava:7b**, **gpt-oss:20b**) are pulled and run via Ollama under their respective licenses.
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+
+Models (**llava:7b**, **gpt-oss:20b**) are pulled and run via Ollama under their respective licenses.
 
 ---
 
